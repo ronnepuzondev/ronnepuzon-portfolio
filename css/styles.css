@@ -10186,3 +10186,14 @@ form .row:first-child .floating-label-form-group {
 .skills {
   text-align: left;
 }
+
+.mx-auto {
+  margin-left: 200px;
+  color: black
+  background-color: white
+}
+
+.card {
+  color: black;
+  margin: 10px;
+}
