@@ -10197,3 +10197,7 @@ form .row:first-child .floating-label-form-group {
   color: black;
   margin: 10px;
 }
+
+#navbar {
+  font-size: x-large;
+}
